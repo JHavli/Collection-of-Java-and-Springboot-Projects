@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JHavlicek_Portfolio.iml" filepath="$PROJECT_DIR$/JHavlicek_Portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Chitter/chitter.iml" filepath="$PROJECT_DIR$/src/Chitter/chitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FilmListReplacer/Recommendations/recommendations.iml" filepath="$PROJECT_DIR$/src/FilmListReplacer/Recommendations/recommendations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FilmListReplacer/RedHotMovies/redhotmovies.iml" filepath="$PROJECT_DIR$/src/FilmListReplacer/RedHotMovies/redhotmovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/FilmListReplacer/TailoredRecommendations/tailoredrecommendations.iml" filepath="$PROJECT_DIR$/src/FilmListReplacer/TailoredRecommendations/tailoredrecommendations.iml" />
+    </modules>
+  </component>
+</project>

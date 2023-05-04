@@ -1,0 +1,6 @@
+tailored-recommendations-store:
+  tailoredRecommendations:
+    - userUuid: knownUUID
+      movie:
+        title: the test
+        synopsis: test movie

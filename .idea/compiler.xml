@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redhotmovies" />
+        <module name="recommendations" />
+        <module name="tailoredrecommendations" />
+        <module name="chitter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chitter" target="17" />
+      <module name="music-station" target="17" />
+      <module name="musicstats" target="17" />
+      <module name="recommendations" target="17" />
+      <module name="redhotmovies" target="17" />
+      <module name="tailoredrecommendations" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chitter" options="-parameters" />
+      <module name="music-station" options="-parameters" />
+      <module name="musicstats" options="-parameters" />
+      <module name="recommendations" options="-parameters" />
+      <module name="redhotmovies" options="-parameters" />
+      <module name="tailoredrecommendations" options="-parameters" />
+    </option>
+  </component>
+</project>
