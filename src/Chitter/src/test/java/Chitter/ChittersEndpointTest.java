@@ -9,7 +9,7 @@ import static org.mockito.Mockito.verify;
 import static org.springframework.boot.test.context.SpringBootTest.WebEnvironment.RANDOM_PORT;
 
 @SpringBootTest(webEnvironment = RANDOM_PORT)
-class TweetsEndpointTest {
+class ChittersEndpointTest {
     @Autowired
     TestRestTemplate testRestTemplate;
     @MockBean
