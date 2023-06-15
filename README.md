@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - A Collection of Java and Spring Boot based projects
 
 1) BLOG: 
 
